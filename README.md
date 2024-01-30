@@ -1,0 +1,1 @@
+JiraTul - a tool for predicting Jira (for now) task priority based on its description. In development.
